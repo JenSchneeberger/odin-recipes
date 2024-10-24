@@ -5,6 +5,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h1 {
+    font-size: 40px;
+}
+
 .link {
     background-color: #bdebeb;
     font-size: 22px;
