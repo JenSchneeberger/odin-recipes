@@ -2,4 +2,10 @@
 
 body {
     background-color: #66b2b2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+    background-color: #bdebeb;
+    font-size: 22px;
 }
