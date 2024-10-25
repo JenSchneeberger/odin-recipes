@@ -17,9 +17,25 @@ h2, h3, h4, h5, h6 {
 .link {
     background-color: #bdebeb;
     font-size: 22px;
+    margin-bottom: 15px;
+
 }
 
 img {
     width: 300px;
     height: auto;
+}
+
+ul {
+    border-width:3px; 
+    border-style:solid; 
+    border-color:#0e5751;
+}
+
+ol li {
+    margin-bottom: 7px;
+}
+
+#contents {
+    border: none;
 }
